@@ -1,0 +1,14 @@
+{
+  "name": "@thani-sh/variable",
+  "description": "A test node module which can hold a single value in memory",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": "git@github.com:thani-sh/variable.git",
+  "author": "Thanish Nizam <mnmtanish@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
